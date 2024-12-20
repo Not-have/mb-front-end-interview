@@ -1,3 +1,0 @@
-# Kubernets
-
-k8s
